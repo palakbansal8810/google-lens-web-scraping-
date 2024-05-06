@@ -11,6 +11,10 @@ Ensure you have the required web drivers for Selenium (Chrome, Firefox, Edge, Sa
 
 Enter the image URL when prompted.
 The script will scrape the product information and store it in a file named data.json.
+
+## Run the script
+python web_scraping.py
+
 ## Dependencies
 Python 3.x
 

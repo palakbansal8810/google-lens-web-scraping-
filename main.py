@@ -118,6 +118,7 @@ class WebScraping:
         return products_json
 
 if __name__=='__main__':
+    print('\nexample for image address= "https://images.pexels.com/photos/1377451/pexels-photo-1377451.jpeg?cs=srgb&dl=pexels-godisable-jacob-226636-1377451.jpg&fm=jpg" \n')
     image_url = input("image address:\n")
     result = WebScraping.scrape_product_info(image_url)
     print(result)
