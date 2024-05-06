@@ -14,7 +14,7 @@ The script will scrape the product information and store it in a file named data
 
 ## Run the script
 
-python web_scraping.py
+python main.py
 
 ## Dependencies
 Python 3.x
