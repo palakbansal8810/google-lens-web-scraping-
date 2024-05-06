@@ -114,7 +114,6 @@ class WebScraping:
         products_json = json.dumps(products, indent=2, ensure_ascii=False)
         with open('data.json', 'w', encoding='utf-8') as f:
             f.write(products_json)
-            
         return products_json
 
 if __name__=='__main__':
