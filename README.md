@@ -1,5 +1,5 @@
-# google-lens-web-scraping
-# Web Scraping Tool
+# Google lens web scraping
+
 This is a Python script that scrapes product information from a given image URL using Selenium and BeautifulSoup.
 
 ## Features
